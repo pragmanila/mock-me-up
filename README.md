@@ -1,5 +1,7 @@
 # Mock Me Up
 
+![Mockup](https://github.com/pragmanila/mock-me-up/blob/master/mock-me-up.jpg?raw=true "Mockup")
+
 ## Instructions:
  
  1. Create a website design mockup from the hand drawn wireframe. All the sections must be present and the layout must be the same.
